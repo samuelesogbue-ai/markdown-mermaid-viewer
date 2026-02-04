@@ -9,8 +9,6 @@ A powerful, modern web application built with Next.js for viewing and exporting 
 - **Split Pane View**: Resizable editor and preview panes for a seamless writing experience.
 - **Export Options**:
   - **PDF**: Export your rendered Markdown and diagrams to high-quality PDF.
-  - **Word (DOCX)**: Convert your documents to Word format.
-  - **Image**: Save your diagrams or previews as images.
 - **Modern UI**: Clean, responsive interface built with Tailwind CSS and Lucide icons.
 
 ## 🛠️ Tech Stack
