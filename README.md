@@ -48,4 +48,4 @@ A powerful, modern web application built with Next.js for viewing and exporting 
 
 ## 📄 License
 
-This project is private and for internal use.
+This project is free & open source for commercial use
